@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LAE/LivelyAnimationEngine.csproj" />
+  <Project Path="OminiArk.Services/OmniArk.Services.csproj" Id="0de628b1-01a8-4ed6-b6c2-92e843d61a02" />
+  <Project Path="OmniArk.App/OmniArk.App.csproj" />
+  <Project Path="OmniArk.Core/OmniArk.Core.csproj" Id="e22fc012-4aee-4443-a61b-6ec89a9e6a5e" />
+</Solution>
