@@ -1,4 +1,7 @@
 # OmniArk
-## A Minecraft server manage tool ( __Develop by WPF__ )
 
-### Cited project -> [LAE](https://github.com/ksayus/LivelyAnimationEngine)
+__A Minecraft server manage tool__  
+> __Is developed by WPF__
+
+## Cited
+- [LAE](https://github.com/ksayus/LivelyAnimationEngine)
